@@ -1,4 +1,4 @@
-# Staking
+# Staking Frontend
 
 Staking frontend for the Ditto Elastic Supply Currency.
 
